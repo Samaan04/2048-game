@@ -1,7 +1,5 @@
 import React, { useEffect, useCallback, useState } from 'react';
 
-// ----------------------- Pure Game Logic (Functional) -----------------------
-
 const createEmptyBoard = (size) => 
   Array.from({ length: size }, () => Array(size).fill(0));
 
@@ -144,8 +142,6 @@ const canMove = (board) => {
   
   return false;
 };
-
-// ----------------------- React Component -----------------------
 
 const App = () => {
   const [boardSize, setBoardSize] = useState(4);
