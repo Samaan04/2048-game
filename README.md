@@ -51,6 +51,10 @@ The project focuses on **pure, reusable, and predictable code**, aligning with f
 
 ## Built With
 
-- React 18
-- Vite
+- **React** (Functional Components + Hooks)
+- **Vite** (Build tool)
 - Modern JavaScript (ES6+)
+
+### Compatibility
+- Requires React 16.8+ (for Hooks support)
+- Built with latest React 18, but compatible with React 16.8+
