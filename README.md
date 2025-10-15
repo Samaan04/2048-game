@@ -69,11 +69,11 @@ The project focuses on **pure, reusable, and predictable code**, aligning with f
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repo-link]
+   git clone https://github.com/Samaan04/2048-game.git
    cd 2048-game
    npm install
    npm run dev
 
 
 2.**Open your browser and visit**
-http://localhost:5173/
+http://localhost:5173/ (or the port shown in your terminal)
