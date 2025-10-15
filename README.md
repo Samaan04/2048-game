@@ -58,3 +58,22 @@ The project focuses on **pure, reusable, and predictable code**, aligning with f
 ### Compatibility
 - Requires React 16.8+ (for Hooks support)
 - Built with latest React 18, but compatible with React 16.8+
+
+### Installation
+
+### Prerequisites
+- Node.js 
+- npm or yarn
+
+### Steps to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone [your-repo-link]
+   cd 2048-game
+   npm install
+   npm run dev
+
+
+2.**Open your browser and visit**
+http://localhost:5173/
